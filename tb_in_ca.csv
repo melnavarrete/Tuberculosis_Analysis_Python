@@ -1,0 +1,333 @@
+Year,Category,Strata,Ca Number of TB cases,Population,"Rate per 100,000 population"
+2005,Total,All cases,2897,35985582,8.1
+2006,Total,All cases,2776,36246822,7.7
+2007,Total,All cases,2722,36552529,7.4
+2008,Total,All cases,2695,36856222,7.3
+2009,Total,All cases,2466,37077204,6.7
+2010,Total,All cases,2323,37363368,6.2
+2011,Total,All cases,2320,37703593,6.2
+2012,Total,All cases,2184,38055785,5.7
+2013,Total,All cases,2162,38342642,5.6
+2014,Total,All cases,2130,38644802,5.5
+2015,Total,All cases,2131,38913507,5.5
+2016,Total,All cases,2059,39127855,5.3
+2017,Total,All cases,2057,39328926,5.2
+2018,Total,All cases,2097,39476064,5.3
+2019,Total,All cases,2111,39529566,5.3
+2020,Total,All cases,1704,39541786,4.3
+2021,Total,All cases,1752,39368613,4.5
+2005,Race/ethnicity,white,267,15716066,1.7
+2005,Race/ethnicity,black,224,2220269,10.1
+2005,Race/ethnicity,hispanic,1127,12667790,8.9
+2005,Race/ethnicity,asian,1253,4314290,29
+2005,Race/ethnicity,amerind/natalask,4,171253,.
+2005,Race/ethnicity,natHW/PacIsl,12,"121,791",9.9
+2005,Race/ethnicity,multirace,6,"774,123",0.8
+2005,Race/ethnicity,unknown,4,.,.
+2006,Race/ethnicity,white,267,"15,625,359",1.7
+2006,Race/ethnicity,black,207,"2,216,691",9.3
+2006,Race/ethnicity,hispanic,1066,"12,923,558",8.2
+2006,Race/ethnicity,asian,1207,"4,387,101",27.5
+2006,Race/ethnicity,amerind/natalask,8,"170,429",4.7
+2006,Race/ethnicity,natHW/PacIsl,11,"123,590",8.9
+2006,Race/ethnicity,multirace,6,"800,094",0.7
+2006,Race/ethnicity,unknown,4,.,.
+2007,Race/ethnicity,white,235,"15,556,795",1.5
+2007,Race/ethnicity,black,216,"2,216,181",9.7
+2007,Race/ethnicity,hispanic,995,"13,185,607",7.5
+2007,Race/ethnicity,asian,1240,"4,471,976",27.7
+2007,Race/ethnicity,amerind/natalask,6,"170,108",3.5
+2007,Race/ethnicity,natHW/PacIsl,17,"125,647",13.5
+2007,Race/ethnicity,multirace,4,"826,214",.
+2007,Race/ethnicity,unknown,9,.,.
+2008,Race/ethnicity,white,258,"15,487,390",1.7
+2008,Race/ethnicity,black,207,"2,217,102",9.3
+2008,Race/ethnicity,hispanic,1058,"13,443,156",7.9
+2008,Race/ethnicity,asian,1143,"4,560,822",25.1
+2008,Race/ethnicity,amerind/natalask,9,"169,713",5.3
+2008,Race/ethnicity,natHW/PacIsl,13,"127,596",10.2
+2008,Race/ethnicity,multirace,6,"850,443",0.7
+2008,Race/ethnicity,unknown,1,.,.
+2009,Race/ethnicity,white,216,"15,251,448",1.4
+2009,Race/ethnicity,black,188,"2,205,579",8.5
+2009,Race/ethnicity,hispanic,913,"13,792,550",6.6
+2009,Race/ethnicity,asian,1119,"4,642,697",24.1
+2009,Race/ethnicity,amerind/natalask,3,"168,736",.
+2009,Race/ethnicity,natHW/PacIsl,13,"129,446",10
+2009,Race/ethnicity,multirace,7,"886,747",0.8
+2009,Race/ethnicity,unknown,7,.,.
+2010,Race/ethnicity,white,184,"15,050,147",1.2
+2010,Race/ethnicity,black,151,"2,192,807",6.9
+2010,Race/ethnicity,hispanic,872,"14,071,306",6.2
+2010,Race/ethnicity,asian,1097,"4,835,369",22.7
+2010,Race/ethnicity,amerind/natalask,1,"165,599",.
+2010,Race/ethnicity,natHW/PacIsl,14,"132,919",10.5
+2010,Race/ethnicity,multirace,4,"915,221",.
+2011,Race/ethnicity,white,191,"15,088,385",1.3
+2011,Race/ethnicity,black,138,"2,204,819",6.3
+2011,Race/ethnicity,hispanic,850,"14,289,592",5.9
+2011,Race/ethnicity,asian,1106,"4,885,148",22.6
+2011,Race/ethnicity,amerind/natalask,4,"166,903",.
+2011,Race/ethnicity,natHW/PacIsl,25,"134,495",18.6
+2011,Race/ethnicity,multirace,6,"934,251",0.6
+2012,Race/ethnicity,white,177,"15,132,794",1.2
+2012,Race/ethnicity,black,137,"2,215,852",6.2
+2012,Race/ethnicity,hispanic,817,"14,505,336",5.6
+2012,Race/ethnicity,asian,1027,"4,943,480",20.8
+2012,Race/ethnicity,amerind/natalask,6,"167,722",3.6
+2012,Race/ethnicity,natHW/PacIsl,14,"136,112",10.3
+2012,Race/ethnicity,multirace,6,"954,490",0.6
+2013,Race/ethnicity,white,176,"15,153,856",1.2
+2013,Race/ethnicity,black,132,"2,226,419",5.9
+2013,Race/ethnicity,hispanic,784,"14,689,377",5.3
+2013,Race/ethnicity,asian,1052,"4,993,849",21.1
+2013,Race/ethnicity,amerind/natalask,3,"168,455",.
+2013,Race/ethnicity,natHW/PacIsl,7,"137,387",5.1
+2013,Race/ethnicity,multirace,8,"973,300",0.8
+2014,Race/ethnicity,white,156,"15,184,452",1
+2014,Race/ethnicity,black,117,"2,238,225",5.2
+2014,Race/ethnicity,hispanic,763,"14,875,325",5.1
+2014,Race/ethnicity,asian,1073,"5,045,636",21.3
+2014,Race/ethnicity,amerind/natalask,3,"169,344",.
+2014,Race/ethnicity,natHW/PacIsl,11,"138,703",7.9
+2014,Race/ethnicity,multirace,6,"993,116",0.6
+2014,Race/ethnicity,unknown,1,.,.
+2015,Race/ethnicity,white,132,"15,199,263",0.9
+2015,Race/ethnicity,black,98,"2,244,683",4.4
+2015,Race/ethnicity,hispanic,762,"15,051,452",5.1
+2015,Race/ethnicity,asian,1127,"5,096,207",22.1
+2015,Race/ethnicity,amerind/natalask,1,"169,929",.
+2015,Race/ethnicity,natHW/PacIsl,10,"139,978",7.1
+2015,Race/ethnicity,multirace,1,"1,011,994",.
+2016,Race/ethnicity,white,143,"15,199,544",0.9
+2016,Race/ethnicity,black,104,"2,249,893",4.6
+2016,Race/ethnicity,hispanic,703,"15,204,696",4.6
+2016,Race/ethnicity,asian,1082,"5,132,792",21.1
+2016,Race/ethnicity,amerind/natalask,5,"170,435",2.9
+2016,Race/ethnicity,natHW/PacIsl,14,"140,882",9.9
+2016,Race/ethnicity,multirace,7,"1,029,614",0.7
+2016,Race/ethnicity,unknown,1,.,.
+2017,Race/ethnicity,white,107,"15,195,592",0.7
+2017,Race/ethnicity,black,105,"2,254,099",4.7
+2017,Race/ethnicity,hispanic,727,"15,351,298",4.7
+2017,Race/ethnicity,asian,1103,"5,168,676",21.3
+2017,Race/ethnicity,amerind/natalask,1,"171,002",.
+2017,Race/ethnicity,natHW/PacIsl,12,"141,868",8.5
+2017,Race/ethnicity,multirace,2,"1,046,391",.
+2018,Race/ethnicity,white,128,"15,175,176",0.8
+2018,Race/ethnicity,black,90,"2,256,725",4
+2018,Race/ethnicity,hispanic,739,"15,469,873",4.8
+2018,Race/ethnicity,asian,1115,"5,197,477",21.5
+2018,Race/ethnicity,amerind/natalask,.,"171,284",.
+2018,Race/ethnicity,natHW/PacIsl,19,"142,461",13.3
+2018,Race/ethnicity,multirace,6,"1,063,068",0.6
+2019,Race/ethnicity,white,130,"15,141,305",0.9
+2019,Race/ethnicity,black,91,"2,264,828",4
+2019,Race/ethnicity,hispanic,820,"15,538,301",5.3
+2019,Race/ethnicity,asian,1056,"5,193,770",20.3
+2019,Race/ethnicity,amerind/natalask,1,"171,563",.
+2019,Race/ethnicity,natHW/PacIsl,11,"142,636",7.7
+2019,Race/ethnicity,multirace,2,"1,077,162",.
+2020,Race/ethnicity,white,108,"15,095,382",0.7
+2020,Race/ethnicity,black,86,"2,269,668",3.8
+2020,Race/ethnicity,hispanic,614,"15,586,668",3.9
+2020,Race/ethnicity,asian,881,"5,185,052",17
+2020,Race/ethnicity,amerind/natalask,1,"171,982",.
+2020,Race/ethnicity,natHW/PacIsl,10,"142,552",7
+2020,Race/ethnicity,multirace,4,"1,090,481",.
+2021,Race/ethnicity,white,96,"14,982,862",0.6
+2021,Race/ethnicity,black,63,"2,262,130",2.8
+2021,Race/ethnicity,hispanic,710,"15,565,600",4.6
+2021,Race/ethnicity,asian,867,"5,147,039",16.8
+2021,Race/ethnicity,amerind/natalask,5,"171,594",2.9
+2021,Race/ethnicity,natHW/PacIsl,5,"141,731",3.5
+2021,Race/ethnicity,multirace,3,"1,097,657",.
+2021,Race/ethnicity,unknown,3,.,.
+2005,Age group,0-4,85,"2,589,301",3.3
+2005,Age group,14-May,66,"5,361,526",1.2
+2005,Age group,15-24,281,"5,350,616",5.3
+2005,Age group,25-44,916,"10,621,621",8.6
+2005,Age group,45-64,846,"8,237,571",10.3
+2005,Age group,65+,703,"3,824,947",18.4
+2006,Age group,0-4,91,"2,582,130",3.5
+2006,Age group,14-May,45,"5,328,339",0.8
+2006,Age group,15-24,321,"5,416,747",5.9
+2006,Age group,25-44,855,"10,579,211",8.1
+2006,Age group,45-64,790,"8,464,366",9.3
+2006,Age group,65+,674,"3,876,029",17.4
+2007,Age group,0-4,89,"2,581,885",3.4
+2007,Age group,14-May,46,"5,295,726",0.9
+2007,Age group,15-24,293,"5,483,979",5.3
+2007,Age group,25-44,786,"10,567,468",7.4
+2007,Age group,45-64,860,"8,685,619",9.9
+2007,Age group,65+,648,"3,937,852",16.5
+2008,Age group,0-4,88,"2,585,622",3.4
+2008,Age group,14-May,66,"5,249,509",1.3
+2008,Age group,15-24,279,"5,534,642",5
+2008,Age group,25-44,813,"10,578,171",7.7
+2008,Age group,45-64,828,"8,889,679",9.3
+2008,Age group,65+,621,"4,018,600",15.5
+2009,Age group,0-4,70,"2,549,345",2.7
+2009,Age group,14-May,55,"5,106,833",1.1
+2009,Age group,15-24,237,"5,529,978",4.3
+2009,Age group,25-44,736,"10,500,937",7
+2009,Age group,45-64,740,"9,198,614",8
+2009,Age group,65+,628,"4,191,497",15
+2010,Age group,0-4,55,"2,535,968",2.2
+2010,Age group,14-May,46,"5,103,768",0.9
+2010,Age group,15-24,216,"5,583,616",3.9
+2010,Age group,25-44,680,"10,519,699",6.5
+2010,Age group,45-64,737,"9,336,213",7.9
+2010,Age group,65+,589,"4,284,104",13.7
+2011,Age group,0-4,82,"2,541,979",3.2
+2011,Age group,14-May,46,"5,094,719",0.9
+2011,Age group,15-24,179,"5,642,195",3.2
+2011,Age group,25-44,625,"10,519,402",5.9
+2011,Age group,45-64,771,"9,482,039",8.1
+2011,Age group,65+,617,"4,423,260",13.9
+2012,Age group,0-4,48,"2,526,591",1.9
+2012,Age group,14-May,40,"5,112,200",0.8
+2012,Age group,15-24,214,"5,704,891",3.8
+2012,Age group,25-44,596,"10,519,075",5.7
+2012,Age group,45-64,699,"9,572,119",7.3
+2012,Age group,65+,587,"4,620,909",12.7
+2013,Age group,0-4,58,"2,507,890",2.3
+2013,Age group,14-May,32,"5,125,971",0.6
+2013,Age group,15-24,185,"5,743,673",3.2
+2013,Age group,25-44,552,"10,492,337",5.3
+2013,Age group,45-64,662,"9,658,619",6.9
+2013,Age group,65+,673,"4,814,152",14
+2014,Age group,0-4,56,"2,502,235",2.2
+2014,Age group,14-May,33,"5,127,730",0.6
+2014,Age group,15-24,187,"5,787,507",3.2
+2014,Age group,25-44,529,"10,452,725",5.1
+2014,Age group,45-64,657,"9,760,153",6.7
+2014,Age group,65+,668,"5,014,453",13.3
+2015,Age group,0-4,36,"2,503,214",1.4
+2015,Age group,14-May,32,"5,121,712",0.6
+2015,Age group,15-24,186,"5,804,899",3.2
+2015,Age group,25-44,507,"10,385,858",4.9
+2015,Age group,45-64,691,"9,876,278",7
+2015,Age group,65+,679,"5,221,547",13
+2016,Age group,0-4,34,"2,477,427",1.4
+2016,Age group,14-May,17,"5,127,211",0.3
+2016,Age group,15-24,174,"5,805,170",3
+2016,Age group,25-44,505,"10,345,547",4.9
+2016,Age group,45-64,646,"9,958,406",6.5
+2016,Age group,65+,683,"5,414,094",12.6
+2017,Age group,0-4,39,"2,457,342",1.6
+2017,Age group,14-May,39,"5,130,290",0.8
+2017,Age group,15-24,162,"5,763,700",2.8
+2017,Age group,25-44,492,"10,351,807",4.8
+2017,Age group,45-64,654,"10,009,591",6.5
+2017,Age group,65+,671,"5,616,197",11.9
+2018,Age group,0-4,28,"2,414,430",1.2
+2018,Age group,14-May,37,"5,124,073",0.7
+2018,Age group,15-24,173,"5,731,846",3
+2018,Age group,25-44,498,"10,376,766",4.8
+2018,Age group,45-64,657,"10,012,435",6.6
+2018,Age group,65+,704,"5,816,514",12.1
+2019,Age group,0-4,29,"2,355,841",1.2
+2019,Age group,14-May,26,"5,103,462",0.5
+2019,Age group,15-24,163,"5,695,393",2.9
+2019,Age group,25-44,502,"10,379,412",4.8
+2019,Age group,45-64,631,"9,966,713",6.3
+2019,Age group,65+,760,"6,028,746",12.6
+2020,Age group,0-4,23,"2,292,541",1
+2020,Age group,14-May,24,"5,075,559",0.5
+2020,Age group,15-24,135,"5,668,695",2.4
+2020,Age group,25-44,383,"10,352,081",3.7
+2020,Age group,45-64,538,"9,903,923",5.4
+2020,Age group,65+,601,"6,248,988",9.6
+2021,Age group,0-4,24,"2,226,527",1.1
+2021,Age group,14-May,19,"5,007,336",0.4
+2021,Age group,15-24,104,"5,613,890",1.9
+2021,Age group,25-44,424,"10,302,066",4.1
+2021,Age group,45-64,546,"9,785,386",5.6
+2021,Age group,65+,635,"6,433,408",9.9
+2005,Sex,Male,1747,"17,898,283",9.8
+2005,Sex,Female,1150,"18,087,299",6.4
+2006,Sex,Male,1666,"18,027,444",9.2
+2006,Sex,Female,1110,"18,219,378",6.1
+2007,Sex,Male,1649,"18,179,624",9.1
+2007,Sex,Female,1073,"18,372,905",5.8
+2008,Sex,Male,1654,"18,330,671",9
+2008,Sex,Female,1041,"18,525,551",5.6
+2009,Sex,Male,1498,"18,444,224",8.1
+2009,Sex,Female,967,"18,632,980",5.2
+2009,Sex,Unknown,1,.,.
+2010,Sex,Male,1374,"18,582,184",7.4
+2010,Sex,Female,949,"18,781,184",5.1
+2011,Sex,Male,1379,"18,765,193",7.3
+2011,Sex,Female,941,"18,938,400",5
+2012,Sex,Male,1293,"18,945,559",6.8
+2012,Sex,Female,891,"19,110,226",4.7
+2013,Sex,Male,1319,"19,100,336",6.9
+2013,Sex,Female,843,"19,242,306",4.4
+2014,Sex,Male,1288,"19,261,310",6.7
+2014,Sex,Female,842,"19,383,492",4.3
+2015,Sex,Male,1249,"19,403,923",6.4
+2015,Sex,Female,882,"19,509,584",4.5
+2016,Sex,Male,1280,"19,517,338",6.6
+2016,Sex,Female,779,"19,610,517",4
+2017,Sex,Male,1276,"19,622,960",6.5
+2017,Sex,Female,781,"19,705,966",4
+2018,Sex,Male,1277,"19,702,484",6.5
+2018,Sex,Female,820,"19,773,580",4.1
+2019,Sex,Male,1281,"19,730,809",6.5
+2019,Sex,Female,830,"19,798,757",4.2
+2020,Sex,Male,1009,"19,731,479",5.1
+2020,Sex,Female,695,"19,810,307",3.5
+2021,Sex,Male,1101,"19,646,457",5.6
+2021,Sex,Female,651,"19,722,156",3.3
+2005,Origin,US-born,653,"26,161,728",2.5
+2005,Origin,non-US-born,2228,"9,823,854",22.7
+2005,Origin,unknown,16,.,.
+2006,Origin,US-born,635,"26,421,487",2.4
+2006,Origin,non-US-born,2128,"9,825,335",21.7
+2006,Origin,unknown,13,.,.
+2007,Origin,US-born,595,"26,538,303",2.2
+2007,Origin,non-US-born,2107,"10,014,226",21
+2007,Origin,unknown,20,.,.
+2008,Origin,US-born,669,"26,973,243",2.5
+2008,Origin,non-US-born,2021,"9,882,979",20.4
+2008,Origin,unknown,5,.,.
+2009,Origin,US-born,580,"27,114,909",2.1
+2009,Origin,non-US-born,1872,"9,962,295",18.8
+2009,Origin,unknown,14,.,.
+2010,Origin,US-born,495,"27,215,905",1.8
+2010,Origin,non-US-born,1824,"10,147,463",18
+2010,Origin,unknown,4,.,.
+2011,Origin,US-born,513,"27,477,745",1.9
+2011,Origin,non-US-born,1803,"10,225,848",17.6
+2011,Origin,unknown,4,.,.
+2012,Origin,US-born,462,"27,762,718",1.7
+2012,Origin,non-US-born,1721,"10,293,067",16.7
+2012,Origin,unknown,1,.,.
+2013,Origin,US-born,462,"28,018,816",1.6
+2013,Origin,non-US-born,1697,"10,323,826",16.4
+2013,Origin,unknown,3,.,.
+2014,Origin,US-born,457,"28,215,793",1.6
+2014,Origin,non-US-born,1670,"10,429,009",16
+2014,Origin,unknown,3,.,.
+2015,Origin,US-born,404,"28,299,849",1.4
+2015,Origin,non-US-born,1722,"10,613,658",16.2
+2015,Origin,unknown,5,.,.
+2016,Origin,US-born,384,"28,480,832",1.3
+2016,Origin,non-US-born,1670,"10,647,023",15.7
+2016,Origin,unknown,5,.,.
+2017,Origin,US-born,367,"28,763,747",1.3
+2017,Origin,non-US-born,1685,"10,565,179",15.9
+2017,Origin,unknown,5,.,.
+2018,Origin,US-born,360,"28,888,110",1.2
+2018,Origin,non-US-born,1736,"10,587,954",16.4
+2018,Origin,unknown,1,.,.
+2019,Origin,US-born,375,"28,969,508",1.3
+2019,Origin,non-US-born,1730,"10,560,058",16.4
+2019,Origin,unknown,6,.,.
+2020,Origin,US-born,276,"28,978,463",1
+2020,Origin,non-US-born,1420,"10,563,323",13.4
+2020,Origin,unknown,8,.,.
+2021,Origin,US-born,311,"28,851,552",1.1
+2021,Origin,non-US-born,1428,"10,517,061",13.6
+2021,Origin,unknown,13,.,.
